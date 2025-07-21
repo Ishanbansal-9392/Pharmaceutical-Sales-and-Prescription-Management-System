@@ -1,4 +1,5 @@
 Developed a pharmaceutical inventory and prescription management system using SQL, featuring 10+ relational tables, advanced queries, triggers, and stored procedures to automate sales tracking, billing, stock alerts, and ensure data integrity.
+
 **Tools Used:** MySQL
 
 **Project Overview:**
